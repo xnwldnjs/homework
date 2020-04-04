@@ -39,7 +39,7 @@ public class RootController implements Initializable {
 		
 		TableColumn t = tableView.getColumns().get(0);
 		
-		t.setCellValueFactory(new PropertyValueFactory("name"));
+		t.setCellValueFactory(new PropertyValueFactory("NAME"));//UPPER
 		
 		t = tableView.getColumns().get(1);
 		t.setCellValueFactory(new PropertyValueFactory("korean"));
