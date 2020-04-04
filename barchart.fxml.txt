@@ -18,7 +18,7 @@
    <bottom>
       <HBox alignment="CENTER" prefHeight="50.0">
          <children>
-            <Button id="close" text="´Ý±â" />
+            <Button id="close" text="±â" />
          </children>
       </HBox>
    </bottom>
