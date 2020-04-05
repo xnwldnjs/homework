@@ -6,7 +6,7 @@
 
 <BorderPane prefHeight="300" prefWidth="500" xmlns:fx="http://javafx.com/fxml" >
    <center>
-      <BarChart id="barChart" BorderPane.alignment="CENTER" >
+      <BarChart id="barChart" BorderPane.alignment="CENTER" >//Upper
         <xAxis>
           <CategoryAxis side="BOTTOM"/>
         </xAxis>
