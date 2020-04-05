@@ -1,4 +1,3 @@
-//student information
 package application;
 
 import javafx.beans.property.SimpleIntegerProperty;
