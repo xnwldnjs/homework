@@ -104,7 +104,7 @@ public class RootController implements Initializable {
 			
 			dialog.initOwner(btn1.getScene().getWindow());
 			
-			dialog.setTitle("막대 그래프");
+			dialog.setTitle("barchart"); //modify
 		
 			Parent parent = FXMLLoader.load(getClass().getResource("barchart.fxml"));
 			
